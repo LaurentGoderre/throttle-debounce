@@ -6,4 +6,5 @@ npm-debug.log
 test-dist/
 index.cjs.js
 index.esm.js
+index.iife.js
 dist/
